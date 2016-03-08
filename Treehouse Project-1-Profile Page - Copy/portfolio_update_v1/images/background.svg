@@ -1,0 +1,75 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>billboard</title>
+ <defs>
+  <linearGradient id="linearGradient3319">
+   <stop stop-color="#2b2d2c" id="stop3321" offset="0"/>
+   <stop stop-color="#656565" id="stop3323" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="817.21936" x2="64" y1="820.21936" x1="64" gradientUnits="userSpaceOnUse" id="linearGradient3486" xlink:href="#linearGradient3319"/>
+  <linearGradient id="linearGradient3598">
+   <stop stop-color="#818181" id="stop3600" offset="0"/>
+   <stop stop-color="#000000" stop-opacity="0" id="stop3602" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3578">
+   <stop stop-color="#8f8f8f" id="stop3580" offset="0"/>
+   <stop stop-color="#d6dad9" id="stop3582" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3626">
+   <stop stop-color="#ffffff" stop-opacity="0" id="stop3628" offset="0"/>
+   <stop stop-color="#ffffff" stop-opacity="0.501961" offset="0.5" id="stop3634"/>
+   <stop stop-color="#ffffff" stop-opacity="0" id="stop3630" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3341">
+   <stop stop-color="#2b2d2c" offset="0" id="stop3343"/>
+   <stop stop-color="#656565" id="stop3347" offset="0.021739"/>
+   <stop stop-color="#000000" offset="1" id="stop3345"/>
+  </linearGradient>
+  <linearGradient y2="672.71936" x2="64" y1="810.71936" x1="64" gradientUnits="userSpaceOnUse" id="linearGradient3478" xlink:href="#linearGradient3341"/>
+  <linearGradient y2="884.21936" x2="-32" y1="807.21936" x1="-32" gradientUnits="userSpaceOnUse" id="linearGradient3476" xlink:href="#linearGradient3523"/>
+  <linearGradient y2="884.21936" x2="90" y1="807.21936" x1="90" gradientUnits="userSpaceOnUse" id="linearGradient3474" xlink:href="#linearGradient3523"/>
+  <linearGradient id="linearGradient3523">
+   <stop stop-color="#000000" id="stop3525" offset="0"/>
+   <stop stop-color="#201f21" offset="0.65" id="stop3535"/>
+   <stop stop-color="#413f42" id="stop3527" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="884.21936" x2="178.5" y1="807.21936" x1="178.5" gradientUnits="userSpaceOnUse" id="linearGradient3472" xlink:href="#linearGradient3523"/>
+  <linearGradient y2="759.71936" x2="20.999998" y1="759.71936" x1="-53" gradientTransform="matrix(1,0,0,1.0305344,160,-43.197536)" gradientUnits="userSpaceOnUse" id="linearGradient3562" xlink:href="#linearGradient3626"/>
+  <linearGradient y2="679.21936" x2="144" y1="690.21936" x1="144" gradientTransform="translate(0,-12)" gradientUnits="userSpaceOnUse" id="linearGradient3564" xlink:href="#linearGradient3578"/>
+  <linearGradient y2="679.21936" x2="144" y1="690.21936" x1="144" gradientTransform="translate(0,-12)" gradientUnits="userSpaceOnUse" id="linearGradient3566" xlink:href="#linearGradient3598"/>
+ </defs>
+ <metadata id="metadata3499">image/svg+xmlBlank Billboard12/24/2008Ji     Ma  ekJi     Ma  ekJi     Ma  ekbillboardblankadvertisementoutdoor</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g3349">
+    <g id="g3644">
+     <rect fill="#000000" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" y="147.000015" x="249" height="77" width="7" id="rect3517"/>
+     <rect fill="url(#linearGradient3472)" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3521" width="5" height="77" x="250" y="147.000015"/>
+    </g>
+    <g id="g3650">
+     <rect fill="#000000" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3537" width="21.700001" height="77" x="137" y="147.000015"/>
+     <rect fill="url(#linearGradient3474)" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" y="147.000015" x="138" height="77" width="20" id="rect3513"/>
+    </g>
+    <g id="g3656">
+     <rect fill="#000000" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" y="147.000015" x="40" height="77" width="8" id="rect3519"/>
+     <rect fill="url(#linearGradient3476)" fill-rule="nonzero" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3515" width="6" height="77" x="41" y="147.000015"/>
+    </g>
+    <rect fill="url(#linearGradient3478)" fill-rule="nonzero" stroke="#000000" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0.501961" y="13.000015" x="10" height="137" width="276" id="rect3662"/>
+    <rect fill="#b2b2b2" fill-rule="nonzero" stroke="#000000" stroke-width="2" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0.501961" id="rect3563" width="270" height="131" x="13" y="16.000015"/>
+    <use x="-80" y="0" xlink:href="#billboard-lamp" id="use3618" width="1009" height="710"/>
+    <use height="710" width="1009" id="use3620" xlink:href="#billboard-lamp" y="0" x="-160"/>
+    <g id="billboard-lamp">
+     <path fill="#000000" fill-rule="nonzero" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3608" d="m226,-0.000015l0,6l1,0l0,7l2,0l0,-7l1,0l0,-6l-1,0l-2,0l-1,0z"/>
+     <rect fill="none" fill-rule="nonzero" stroke="#000000" stroke-miterlimit="4" stroke-dashoffset="0" rx="2" ry="2" y="5.500015" x="215.5" height="8" width="24.999998" id="rect3606"/>
+     <path fill="url(#linearGradient3562)" fill-rule="nonzero" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m191,12.000015l0,135l37,0l37,0l0,-135l-37,0l-37,0z" id="rect3569"/>
+     <rect fill="url(#linearGradient3564)" fill-rule="nonzero" stroke="url(#linearGradient3566)" stroke-miterlimit="4" stroke-dashoffset="0" rx="3" ry="3" y="7.500015" x="217.5" height="10" width="21" id="rect3576"/>
+    </g>
+    <g id="g3327">
+     <path fill="#000000" fill-rule="nonzero" stroke-width="0.9" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0.501961" id="rect3310" d="m0,160.000015l296,0l-10,3l-276,0l-10,-3z"/>
+     <rect fill="url(#linearGradient3486)" fill-rule="nonzero" stroke-width="0.9" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0.501961" id="rect3312" width="296" height="3" x="0" y="157.000015"/>
+    </g>
+    <path fill="#000000" fill-rule="nonzero" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" stroke-opacity="0.501961" d="m249,-574.362183l252,0l12,4l-276,0l12,-4z" id="rect2537" transform="translate(-227,-420.3621826171875) scale(1,-1) "/>
+   </g>
+  </g>
+ </g>
+</svg>
