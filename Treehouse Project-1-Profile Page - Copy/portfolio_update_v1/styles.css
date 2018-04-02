@@ -1,0 +1,369 @@
+/* Global Layout Set-up */
+* { 
+  box-sizing: border-box;
+}
+  
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #222;
+  background: #f7f5f0;
+  border-bottom: 5px solid rgba(0,222,255,1);
+}
+/******* general font styling ************/
+
+p {
+  font-family: 'Merriweather';
+}
+
+.experience-button, h2, .name {
+  font-family: 'Patua One';
+}
+
+.name {
+  letter-spacing: 1px;
+}
+
+
+/* Link Styles */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6633ff;
+}
+
+/* Section Styles */
+
+.main-nav {
+  width: 100%;
+  background: linear-gradient(rgba(10,10,10,0.7),
+                rgba(45,45,45,0.6),
+                rgba(10,10,10,0.7)); 
+  border: 0.5px solid rgba(200,200,200,0.25);
+  border-right: none;
+  border-left: none;
+  box-shadow: 0px 1px 1.5px rgba(0,0,0,0.2);
+  min-height: 30px;
+  padding: 10px;
+  margin-top: 10px;
+  position: fixed;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav .name {
+    display: block;
+    margin-right: auto;
+    color: white;
+}
+
+.nav li {
+  padding: 5px 10px 10px 10px;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.nav a {
+  transition: all .5s;
+  color: rgba(255,255,255,0.7);
+}
+
+.nav a:hover {
+  color: white;
+}
+
+header {
+  text-align: center;
+  background: url('images/profile-background.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.7);
+}
+
+header {
+  line-height: 1.5;
+}
+
+header .profile-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2.5px solid white;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.4),
+              -1px -1px 5px rgba(0,0,0,0.4);
+  transition: all 0.8s;
+}
+
+header .box-logo {
+  margin-top: 90px;
+  border: none;
+  box-shadow: none;
+  width: 200px;
+  height: 200px;
+}
+
+header .profile-image:hover {
+  transform: scale(1.2) rotate(317deg);
+}
+
+header .box-logo:hover {
+  transform: scale(1.35) rotate(12deg);
+}
+
+
+.tag {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+  box-shadow: 1px 1px 2.5px rgba(0,0,0,0.5),
+              -1px -1px 2.5px rgba(0,0,0,0.5);
+} 
+
+.location {
+  background-color: #222;
+  color: rgba(0,222,255,1);
+}
+
+.card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.35);
+  transition: all 1s;
+}
+
+/******* EXPERIENCE PAGE *********/
+
+.experience {
+  margin: 36px auto 0px;
+}
+
+.experience h2 {
+  text-align: center;
+}
+
+.experience-list li {
+  border-bottom: 1px dotted black;
+}
+
+.experience-button {
+  background: linear-gradient(rgba(0,222,255,1),rgba(0,202,235,1));
+  color: rgba(0,0,0,1);
+  border: .1px solid rgba(0,182,215,1);
+  box-shadow: 1px 1px 3.5px rgba(0,0,0,0.3);
+  width: 100%;
+  margin: 12px auto;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  border-radius: 25px;
+  transition: all .82s;
+}
+
+.experience-button:hover {
+  background: rgba(0,222,255,1);
+  color: rgba(0,0,0,1);
+  border: .1px solid rgba(0,182,215,1);
+  box-shadow: 1px 1px 1.5px rgba(0,0,0,0.5);
+}
+
+.card h2 {
+  border-bottom: 3px solid rgba(0,222,255,1);
+}
+
+.card:hover {
+  border-color: rgba(0,222,255,1);
+  box-shadow: none;
+  box-shadow: 0px 1px 2px rgba(0,222,255,1),
+              1px 2px 5px rgba(0,0,0,0.3);
+}
+
+ul.skills {
+  padding: 0;
+  text-align: center;
+}
+
+.skills li {
+  border-radius: 6px;
+  display: inline-block;
+  background: #ff9904;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+
+.skills li:nth-child(odd) {
+  background: #0399ff;
+}
+
+/***** CONTACT PAGE *****************/
+
+.contact-button {
+  margin-top: 36px;
+}
+
+.contact-li {
+  word-wrap: break-word;
+  font-weight: bold;
+}
+
+.contact-li a {
+  font-weight: normal;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+}
+
+.contact-li a:hover {
+  color: firebrick;
+}
+
+
+footer {
+  width: 100%;
+  min-height: 30px;
+  padding: 20px 0 40px 20px;
+}
+
+footer .copyright {
+  top: -8px;
+  font-size: .75em;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline-block;
+}
+
+a.social {
+  display: inline-block;
+  text-indent: -9999px;
+  margin-left: 5px;
+  width: 30px;
+  height: 30px;
+  background-size: 30px 30px;
+  opacity: .4;
+  transition: all .5s;
+}
+
+a.twitter {
+  background-image: url(images/twitter.svg);
+}
+
+a.boxlogo-icon {
+  background-image: url(images/boxlogo.svg);
+  transform: scale(1.4);
+}
+
+a.github {
+  background-image: url(images/github.svg);
+}
+
+a.social:hover {
+  opacity: 1;
+}
+
+.clearfix {
+  clear: both;
+}
+
+/* Styles for larger screens */
+@media screen and (min-width: 720px) {
+  
+  .flex {
+      display: -ms-flexbox;      /* TWEENER - IE 10 */
+      display: flex; 
+      max-width: 1200px;
+      -ms-flex-pack: distribute;
+      justify-content: space-around;
+      margin: 0 auto;
+  }
+
+
+  header {
+    min-height: 470px;
+  }
+
+  .nav {
+    max-width: 1200px;
+    padding: 0 30px;
+  }
+
+
+  main {
+    padding-top: 20px;
+  }
+
+  main p {
+    line-height: 1.6em;
+  }
+
+  /**** EXPERIENCE PAGE-RESPONSIVE ******/
+
+  .experience-button {
+  background: rgba(0,222,255,0.35);
+  border: .1px solid rgba(0,202,235,0.35);
+  /*color: rgba(0,0,0,0.5);*/
+  color: white;
+  width: 50%;
+  margin: 12px auto;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  box-shadow: none;
+  border-radius: 25px;
+  transition: all .82s;
+}
+
+.experience-button:hover {
+  background: linear-gradient(rgba(0,222,255,1),rgba(0,202,235,1));
+  color: rgba(0,0,0,1);
+  border: .1px solid rgba(0,182,215,1);
+  box-shadow: 1px 1px 3.5px rgba(0,0,0,0.3);
+}
+
+.experience-button:active {
+  box-shadow: none;
+}
+
+
+/***** CONTACT PAGE-RESPONSIVE *****************/
+
+.contact-button {
+  width: 80%;
+  margin-top: 36px;
+}
+
+
+  footer {
+    font-size: 1.3em;
+    max-width: 1200px;
+    margin: 40px auto;
+  }
+
+}
+
