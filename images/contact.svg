@@ -1,0 +1,69 @@
+<?xml version="1.0"?><svg width="404" height="773" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>The Incredible Javascript Android Phone Browser Edited</title>
+ <metadata id="metadata230785">image/svg+xmlThe Incredible Javascript Android Phone Browser2010-09-17Jean-Bernard FRANCOISLibreIncredibleJavascriptAndroidPhoneBrowserForeignObjectfrThe Incredible Javascript Android Phone Browser using SVG ForeignObjectshokunin (Android Phone)</metadata>
+ <defs>
+  <linearGradient xlink:href="#linearGradient5205" id="linearGradient4656" x1="0" y1="0.499943" x2="1" y2="0.499943"/>
+  <radialGradient xlink:href="#linearGradient3923" id="radialGradient4636" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.51116,0.129655,-0.10471,1.22042,-115.414,-187.618)" cx="357.62073" cy="641.7926" fx="357.62073" fy="641.7926" r="6.513626"/>
+  <linearGradient id="linearGradient3651-6-1">
+   <stop stop-color=" rgb(238, 238, 238)" id="stop3653-7-5" offset="0"/>
+   <stop stop-color=" rgb(204, 204, 207)" id="stop3655-1-9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5205">
+   <stop stop-color=" rgb(67, 167, 217)" id="stop5207" offset="0"/>
+   <stop stop-color=" rgb(171, 213, 237)" id="stop5209" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3806">
+   <stop stop-color=" rgb(238, 238, 238)" offset="0" id="stop3808"/>
+   <stop stop-color=" rgb(238, 238, 238)" offset="1" id="stop3810"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3915">
+   <stop stop-color=" rgb(102, 102, 102)" offset="0" id="stop3917"/>
+   <stop stop-color=" rgb(102, 102, 102)" offset="1" id="stop3919"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3923">
+   <stop stop-color=" rgb(204, 204, 207)" offset="0" id="stop3925"/>
+   <stop stop-color=" rgb(237, 237, 237)" offset="1" id="stop3927"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3943">
+   <stop stop-color=" rgb(179, 221, 253)" id="stop3945" offset="0"/>
+   <stop stop-color=" rgb(51, 102, 152)" id="stop3947" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3951">
+   <stop stop-color=" rgb(0, 0, 0)" id="stop3953" offset="0"/>
+   <stop stop-color=" rgb(51, 51, 51)" id="stop3955" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3988">
+   <stop stop-color=" rgb(51, 51, 51)" offset="0" id="stop3990"/>
+   <stop stop-color=" rgb(51, 51, 51)" offset="1" id="stop3992"/>
+  </linearGradient>
+  <linearGradient y2="1.000008" x2="0.420315" y1="-0.295258" x1="0.065818" id="linearGradient240419" xlink:href="#linearGradient3806"/>
+  <linearGradient y2="0.499996" x2="1" y1="0.499996" x1="0" id="linearGradient240533" xlink:href="#linearGradient3651-6-1"/>
+  <linearGradient y2="0.500004" x2="1" y1="0.500004" x1="0" id="linearGradient240536" xlink:href="#linearGradient3651-6-1"/>
+  <linearGradient y2="0.500005" x2="1" y1="0.500005" x1="0" id="linearGradient240539" xlink:href="#linearGradient3651-6-1"/>
+  <linearGradient y2="0.500005" x2="1" y1="0.500005" x1="0" id="linearGradient240542" xlink:href="#linearGradient3651-6-1"/>
+  <linearGradient y2="0.500004" x2="1" y1="0.500004" x1="0" id="linearGradient240545" xlink:href="#linearGradient3651-6-1"/>
+  <linearGradient y2="1" x2="0.31288" y1="0.114071" x1="0.311766" id="linearGradient240565" xlink:href="#linearGradient3806"/>
+  <linearGradient y2="1" x2="0.288204" y1="-0.072339" x1="0.285052" id="linearGradient240572" xlink:href="#linearGradient3951"/>
+  <linearGradient y2="0" x2="0.667416" y1="0.986385" x1="0.730337" id="linearGradient240576" xlink:href="#linearGradient3943"/>
+  <linearGradient y2="0.85847" x2="1" y1="0.893651" x1="-0.008465" id="linearGradient240586" xlink:href="#linearGradient3988"/>
+  <linearGradient y2="0.916209" x2="1" y1="0.920026" x1="-0.014336" id="linearGradient240589" xlink:href="#linearGradient3915"/>
+ </defs>// Nouvelle Balise foreignObject
+ <g>
+  <title>Layer 1</title>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#333333" id="rect3668" width="21.04528" height="11.126804" x="352.01984" y="659.90424" ry="4.757111" rx="5.005716"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#333333" id="rect2890" width="112.62717" height="224.86617" x="307.07996" y="444.14096" rx="12.170057" ry="11.999624"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="url(#linearGradient240589)" id="rect3692" width="107.14965" height="219.36165" x="309.70789" y="446.90561" rx="10.520398"/>
+  <path fill="url(#linearGradient240586)" d="m59.311783,20.04941c-21.778759,0 -39.267199,17.187777 -39.267199,38.661531l0,586.585323l363.802004,0l0,-586.585323c0,-21.473755 -17.589386,-38.661531 -39.368134,-38.661531l-285.166672,0z" id="rect3696"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#242424" id="rect3676" width="16.284063" height="6.513626" x="342.11337" y="628.23633" rx="4" ry="4"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#242424" ry="4" rx="4" y="627.79224" x="392.89005" height="6.513626" width="16.284063" id="rect3678"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#242424" id="rect3680" width="16.284063" height="6.513626" x="368.16788" y="627.79224" rx="4" ry="4"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#242424" ry="4" rx="4" y="628.23633" x="316.50299" height="6.513626" width="16.284063" id="rect3682"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#242424" id="rect3684" width="104.04987" height="165.18178" x="311.52151" y="459.25702" rx="4" ry="4"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="#666666" id="rect3688" width="56.107368" height="3.977761" x="335.49277" y="452.66232" rx="2" ry="2"/>
+  <path fill="#cccccf" d="m126.035736,47.506165l0,12.819881l150.103668,0l0,-12.819881l-150.103668,0z" id="path3715"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="url(#linearGradient240545)" ry="4" rx="4" y="627.38776" x="342.21805" height="6.513626" width="16.284063" id="rect3957"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="url(#linearGradient240542)" id="rect3959" width="16.284063" height="6.513626" x="392.99472" y="626.94366" rx="4" ry="4"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="url(#linearGradient240539)" ry="4" rx="4" y="626.94366" x="368.27255" height="6.513626" width="16.284063" id="rect3961"/>
+  <rect transform="matrix(3.23021 0 0 3.23021 -971.932 -1414.67)" fill="url(#linearGradient240536)" id="rect3963" width="16.284063" height="6.513626" x="316.60767" y="627.38776" rx="4" ry="4"/>
+  <g id="NewBal" transform="translate(40, 130) scale(0.5,0.5)"/>
+ </g></svg>
